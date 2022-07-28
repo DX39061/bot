@@ -1,0 +1,8 @@
+.idea
+/go-cqhttp/config.yml
+questions.db
+/go-cqhttp/data/
+/go-cqhttp/logs/
+/go-cqhttp/device.json
+/go-cqhttp/session.token
+/awesomeBot/config/config.yaml
